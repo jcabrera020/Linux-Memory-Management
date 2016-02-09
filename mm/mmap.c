@@ -1,11 +1,11 @@
 /*
  * mm/mmap.c
  *
- * Written by obz.
- *
- * Address space accounting code	<alan@lxorguk.ukuu.org.uk>
  */
 
+/*
+ * New line
+ */
 #define pr_fmt(fmt) KBUILD_MODNAME ": " fmt
 
 #include <linux/kernel.h>
