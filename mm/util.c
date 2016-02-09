@@ -16,6 +16,10 @@
 
 #include "internal.h"
 
+/*
+ * Simple line change
+ * */
+
 /**
  * kstrdup - allocate space for and copy an existing string
  * @s: the string to duplicate
