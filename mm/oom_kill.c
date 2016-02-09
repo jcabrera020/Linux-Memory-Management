@@ -1,6 +1,7 @@
 /*
+ * This is just a simple modification for the oom_kil.c file *
  *  linux/mm/oom_kill.c
- * 
+ *
  *  Copyright (C)  1998,2000  Rik van Riel
  *	Thanks go out to Claus Fischer for some serious inspiration and
  *	for goading me into coding this file...
