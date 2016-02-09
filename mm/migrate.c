@@ -12,6 +12,10 @@
  * Christoph Lameter
  */
 
+/*
+ *
+ * New line added to migrate.c
+ * /
 #include <linux/migrate.h>
 #include <linux/export.h>
 #include <linux/swap.h>
